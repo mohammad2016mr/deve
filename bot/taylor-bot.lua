@@ -243,9 +243,9 @@ function create_config( )
     
     admin : 
     
-    @VANDEVOORDE 😎
+    @gpsudo 😎
     
-    @MOHAMMAD_FUCKR 😎
+    @me_sudo 😎
     
     channel : 
     
